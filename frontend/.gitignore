@@ -25,4 +25,4 @@ dist-ssr
 
 
 # Solución
-/frontend/src/components/
+**/components/Solution/
