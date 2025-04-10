@@ -280,5 +280,5 @@ app.get('/books', (req, res) => {
 
 
 app.listen(3000, () => {
-  console.log('📚 API avanzada sin ordenamiento corriendo en http://localhost:3000/books');
+  console.log('📚 API: http://localhost:3000/books');
 });
